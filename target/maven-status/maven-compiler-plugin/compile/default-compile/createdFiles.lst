@@ -1,0 +1,12 @@
+com\mycompany\shoppingcart\helper\FactoryProvider.class
+com\mycompany\shoppingcart\dao\UserDao.class
+com\mycompany\shoppingcart\servlets\ProductOperationServlet.class
+com\mycompany\shoppingcart\entities\Product.class
+com\mycompany\shoppingcart\entities\Users.class
+com\mycompany\shoppingcart\servlets\LoginServlet.class
+com\mycompany\shoppingcart\servlets\RegisterServlet.class
+com\mycompany\shoppingcart\dao\CategoryDao.class
+com\mycompany\shoppingcart\helper\Helper.class
+com\mycompany\shoppingcart\entities\Category.class
+com\mycompany\shoppingcart\dao\ProductDao.class
+com\mycompany\shoppingcart\servlets\LogoutServlet.class
